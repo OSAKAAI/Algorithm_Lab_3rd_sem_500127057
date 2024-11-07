@@ -1,23 +1,53 @@
-Overview of Experiments
+Overview of Experiments 👨🏻‍💻🦾💡
 This document provides a summary of the experiments I have conducted as part of the coursework on algorithms.
 
 List of Experiments :-
-1. Iterative and Recursive Binary Search Tree Insertion
+1. Iterative and Recursive Binary Search Tree Insertion 🌳
 Objective: Implement both iterative and recursive methods for inserting elements into a Binary Search Tree (BST).
 Experiment: Compare the performance of the two insertion methods using different tree sizes, and visualize the results by plotting their execution times.
-Status: completed.
+Status: completed 👨🏻‍💻✅.
 
 2. Merge Sort vs Quick Sort (Divide and Conquer Approach)
 Objective: Implement the divide and conquer-based algorithms: Merge Sort and Quick Sort.
 Experiment: Compare the performance of Merge Sort and Quick Sort by running both algorithms on the same set of elements and analyzing the differences in execution time.
-Status: completed.
+Status: completed 👨🏻‍💻✅.
 
 3. Strassen's Matrix Multiplication vs Traditional Matrix Multiplication
 Objective: Implement Strassen’s matrix multiplication algorithm and compare its performance with the traditional matrix multiplication technique.
 Experiment: Compare the execution times and performance of both methods, focusing on time complexity and efficiency with large matrices.
-Status: completed.
+Status: completed 👨🏻‍💻✅.
 
 4. Activity Selection Problem (Greedy Algorithm)
 Objective: Implement the Activity Selection problem using a greedy algorithm approach.
 Experiment: Solve the problem to understand the effectiveness of the greedy strategy, and verify how it finds an optimal solution.
-Status: completed.
+Status: completed 👨🏻‍💻✅.
+
+5. Matrix Chain Multiplication Analysis Objective: Implement the Matrix Chain Multiplication problem using a dynamic programming approach.
+Experiment: Analyze how the placement of parentheses impacts the time required for matrix multiplication, focusing on time complexity and optimal substructure. 
+Status: completed 👨🏻‍💻✅.
+
+6. Performance Comparison of Dijkstra and Bellman-Ford Algorithms 
+Objective: Implement Dijkstra’s and Bellman-Ford algorithms for the single-source shortest path problem.
+Experiment: Compare their performance on different graph types and analyze their efficiency and runtime behavior under various conditions. 
+Status: completed 👨🏻‍💻✅.
+
+7. Greedy vs. Dynamic Programming: 0/1 Knapsack Problem 
+Objective: Implement and compare greedy and dynamic programming approaches for the 0/1 Knapsack problem.
+Experiment: Analyze the solution quality and computational performance of both approaches on the same dataset. 
+Status: completed 👨🏻‍💻✅.
+
+8. Implementation of Sum of Subsets Problem 
+Objective: Implement an algorithm to find all subsets of a set that sum to a target value.
+Experiment: Use backtracking techniques to solve the problem and assess the algorithm's performance.
+Status: completed 👨🏻‍💻✅.
+
+9. Backtracking vs. Branch & Bound: 0/1 Knapsack Problem
+Objective: Compare the backtracking and branch-and-bound approaches for solving the 0/1 Knapsack problem.
+Experiment: Analyze the performance of these approaches and compare them to the dynamic programming solution in terms of runtime and memory usage.
+Status: completed 👨🏻‍💻✅.
+
+10. String-Matching Algorithms Performance Comparison 
+Objective: Implement Rabin-Karp, Knuth-Morris-Pratt (KMP), and naive string-matching algorithms. 
+Experiment: Compare the execution times and performance of these algorithms on various strings and patterns to determine their practical applications and efficiency. 
+Status: completed 👨🏻‍💻✅.
+
